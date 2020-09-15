@@ -1,5 +1,7 @@
 # leetcode-problem-solving
 
+* 매주 5문제(미듐4, 하드1)
+
 | Week | Link              |    Done   |
 |:----:|-------------------|:---------:|
 |   1  | [week01](/week01) | :running: |
