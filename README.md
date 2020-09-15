@@ -1,55 +1,49 @@
 # leetcode-problem-solving
 
-1주차
-https://leetcode.com/problems/subarray-sum-equals-k
-https://leetcode.com/problems/next-permutation
-https://leetcode.com/problems/decode-string
-https://leetcode.com/problems/word-break
-https://leetcode.com/problems/trapping-rain-water
-
-2주차
-https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses
-https://leetcode.com/problems/coin-change
-https://leetcode.com/problems/maximal-square
-https://leetcode.com/problems/permutations
-https://leetcode.com/problems/median-of-two-sorted-arrays
-
-3주차
-https://leetcode.com/problems/kth-largest-element-in-an-array
-https://leetcode.com/problems/insert-delete-getrandom-o1
-https://leetcode.com/problems/binary-tree-right-side-view
-https://leetcode.com/problems/search-in-rotated-sorted-array
-https://leetcode.com/problems/critical-connections-in-a-network
-
-4주차
+## 1주차
+https://leetcode.com/problems/prison-cells-after-n-days
+https://leetcode.com/problems/search-a-2d-matrix-ii
 https://leetcode.com/problems/partition-labels
-https://leetcode.com/problems/group-anagrams
-https://leetcode.com/problems/word-search
-https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
-https://leetcode.com/problems/integer-to-english-words
+https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
 
-5주차
-https://leetcode.com/problems/design-underground-system
-https://leetcode.com/problems/time-based-key-value-store
-https://leetcode.com/problems/robot-bounded-in-circle
-https://leetcode.com/problems/random-pick-with-weight
-https://leetcode.com/problems/consecutive-numbers-sum
+## 2주차
+https://leetcode.com/problems/word-break
+https://leetcode.com/problems/design-tic-tac-toe
+https://leetcode.com/problems/rotate-image
+https://leetcode.com/problems/analyze-user-website-visit-pattern
 
-6주차
-https://leetcode.com/problems/add-two-numbers-ii
-https://leetcode.com/problems/reverse-linked-list-ii
+## 3주차
+https://leetcode.com/problems/snakes-and-ladders
+https://leetcode.com/problems/search-in-rotated-sorted-array
 https://leetcode.com/problems/top-k-frequent-elements
-https://leetcode.com/problems/find-all-duplicates-in-an-array
-https://leetcode.com/problems/maximal-rectangle
+https://leetcode.com/problems/group-anagrams
 
-7주차
-https://leetcode.com/problems/design-add-and-search-words-data-structure
-https://leetcode.com/problems/task-scheduler
-https://leetcode.com/problems/reorganize-string
+## 4주차
+https://leetcode.com/problems/insert-delete-getrandom-o1
+https://leetcode.com/problems/word-search
+https://leetcode.com/problems/boundary-of-binary-tree
+https://leetcode.com/problems/minimum-cost-to-connect-sticks
+
+## 5주차
+https://leetcode.com/problems/coin-change
+https://leetcode.com/problems/find-the-celebrity
+https://leetcode.com/problems/number-of-distinct-islands
+https://leetcode.com/problems/flatten-nested-list-iterator
+
+## 6주차
+https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
+https://leetcode.com/problems/search-suggestions-system
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+https://leetcode.com/problems/validate-binary-search-tree
+
+## 7주차
+https://leetcode.com/problems/encode-and-decode-tinyurl
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node
+https://leetcode.com/problems/kth-largest-element-in-an-array
 https://leetcode.com/problems/minimum-path-sum
-https://leetcode.com/problems/alien-dictionary
 
-8주차
-https://leetcode.com/problems/longest-increasing-subsequence
-
-https://leetcode.com/problems/text-justification
+## 8주차
+https://leetcode.com/problems/serialize-and-deserialize-bst
+https://leetcode.com/problems/implement-trie-prefix-tree
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii
+https://leetcode.com/problems/find-all-anagrams-in-a-string
