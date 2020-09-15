@@ -1,6 +1,7 @@
 # leetcode-problem-solving
 
-* 매주 5문제(미듐4, 하드1)
+* Solve 5 problems every week (Medium 4, Hard 1)
+* Solve in Scala
 
 | Week | Link              |    Done   |
 |:----:|-------------------|:---------:|
