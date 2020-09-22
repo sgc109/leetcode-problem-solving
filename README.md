@@ -1,6 +1,7 @@
 # leetcode-problem-solving
 
 * Solve 3 problems every week in Scala
+* Never use `var`, `mutable collections`
 
 | Week | Link              |    Done   |
 |:----:|-------------------|:---------:|
