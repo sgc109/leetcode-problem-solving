@@ -2,5 +2,3 @@
 https://leetcode.com/problems/encode-and-decode-tinyurl  
 https://leetcode.com/problems/populating-next-right-pointers-in-each-node  
 https://leetcode.com/problems/kth-largest-element-in-an-array  
-https://leetcode.com/problems/minimum-path-sum  
-https://leetcode.com/problems/concatenated-words  
