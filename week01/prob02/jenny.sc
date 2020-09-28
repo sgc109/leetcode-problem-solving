@@ -2,17 +2,19 @@ import scala.annotation.tailrec
 
 object Solution {
   def searchMatrix(matrix: Array[Array[Int]], target: Int): Boolean = {
-    getResult(0, matrix, target)
+    getResult(matrix, target, matrix.length - 1, 0) match {
+      case Some(toReturn) => toReturn
+      case _ => false
+    }
   }
 
   @tailrec
-  private def getResult(idx: Int, matrix: Array[Array[Int]], target: Int): Boolean = {
-    if (idx == matrix.length) return false
+  private def getResult(matrix: Array[Array[Int]], target: Int, row: Int, col: Int): Option[Boolean] = {
+    if (row < 0 || col == matrix(0).length) return None
 
-    matrix(idx).contains(target) match {
-      case true => true
-      case _ => getResult(idx + 1, matrix, target)
-    }
+    if (matrix(row)(col) > target) getResult(matrix, target, row - 1, col)
+    else if (matrix(row)(col) < target) getResult(matrix, target, row, col + 1)
+    else Some(true)
   }
 }
 
